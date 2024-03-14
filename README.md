@@ -1,0 +1,1 @@
+Orphanage and Donation Management System is a platform facilitating donations of food, clothes, money, books, and health facilities to orphanages. It empowers organizations to efficiently manage donations and enables individuals to schedule appointments for discussions or assistance. Join us in making a difference by contributing to the well-being
